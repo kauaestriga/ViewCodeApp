@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  ViewCodeApp
+
+  Created by Usuário Convidado on 13/10/20.
+  Copyright © 2020 Usuário Convidado. All rights reserved.
+*/
+"WELCOME" = "Bem-vindo!";
+"MAIN" = "Vamos nos excercitar? Aqui você poderá criar o treino ideal!";
+"LOGIN_BUTTON" = "Entrar";
+"SIGNUP_BUTTON" = "Registrar";
+"PHONE" = "Telefone";
+"SOCIAL_MEDIA" = "Ou use as redes sociais";
